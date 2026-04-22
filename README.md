@@ -1,5 +1,19 @@
-👋 Hi, I’m @ParimiGiriBabu
-👀 Domain - AI Engineer 
-💞️ I’m looking to collaborate on projects in AI, web-based solutions, and sustainable tech innovations.
-📫 Mail - giribabuparimi1@gmail.com
-LinkedIn - Parimi Giri Babu
+# Hi, I'm Parimi Giri 👋
+
+🚀 Java Developer | Spring Boot | Backend Engineer
+
+## 🔧 Skills
+- Core Java, OOP
+- Spring Boot, REST APIs
+- MySQL, SQL
+- Microservices basics
+
+## 💼 Projects
+### E-Wallet Payment System
+- Built using Spring Boot & MySQL
+- Implemented transaction management
+- Designed REST APIs for payments
+- Ensured data consistency
+
+## 📫 Contact
+- LinkedIn: <your-link>
